@@ -1,4 +1,4 @@
-```markdown
+
 # Theorem Prover FHE: A Privacy-Preserving AI Tool for Mathematical Proofs 🤖🔒
 
 Theorem Prover FHE is an innovative AI tool that harnesses **Zama's Fully Homomorphic Encryption technology** to revolutionize the way mathematicians prove theorems. This pioneering platform allows users to input mathematically formulated conjectures in an encrypted form, enabling the AI to search for proofs or counterexamples within a secure, encrypted logical space.
